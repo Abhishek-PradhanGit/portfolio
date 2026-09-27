@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const contactForm = document.getElementById("contactForm");
 
 contactForm.addEventListener("submit", function (event) {
@@ -58,7 +57,6 @@ contactForm.addEventListener("submit", function (event) {
 
     });
 
-=======
 const contactForm = document.getElementById("contactForm");
 
 contactForm.addEventListener("submit", function (event) {
@@ -118,5 +116,5 @@ contactForm.addEventListener("submit", function (event) {
 
     });
 
->>>>>>> fcd23e597c0dd47f11aab68c7ba06278f69e7abd
 });
+
